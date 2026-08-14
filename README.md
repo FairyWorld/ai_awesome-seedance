@@ -12,7 +12,7 @@ This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X
 
 
 ### Sponsor
-[![Cyberbara Ad](./assets/cyberbara-real-face-upload-banner.webp)](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+[![Cyberbara Ad](./assets/cyberbara-promo.png)](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 > **💡 Struggle with Seedance 2.0 Face Detection?**
 > Cyberbara now supports **real face uploads without limits!** Plus, enjoy our massive price drop. [Unlock your limits at cyberbara.com →](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)

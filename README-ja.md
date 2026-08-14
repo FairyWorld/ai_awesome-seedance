@@ -13,7 +13,7 @@ Last updated on 2026-09-12 00-34-26
 注記: 再現性を保つため、多くのプロンプトコードブロックは原文の英語のまま残しています。
 
 ### スポンサー: [Cyberbara.comでSeedance 2.0が44%値下げ](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
-[<img width="1200" alt="Cyberbara.comでSeedance 2.0が44パーセント値下げ" src="./assets/seedance2-cyberbara-price-drop-44.webp" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+[<img width="1200" alt="Cyberbara.comでSeedance 2.0が44パーセント値下げ" src="./assets/cyberbara-promo.png" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 ## 📖 目次
 

@@ -13,7 +13,7 @@ Dieses Repository konzentriert sich auf **hochwertige Seedance-2.0-Prompts** aus
 Hinweis: Um die Reproduzierbarkeit zu bewahren, bleiben viele Prompt-Codebloecke im englischen Original.
 
 ### Sponsor: [Seedance 2.0 jetzt 44 % günstiger auf Cyberbara.com](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
-[<img width="1200" alt="Seedance 2.0 jetzt 44 Prozent günstiger auf Cyberbara.com" src="./assets/seedance2-cyberbara-price-drop-44.webp" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+[<img width="1200" alt="Seedance 2.0 jetzt 44 Prozent günstiger auf Cyberbara.com" src="./assets/cyberbara-promo.png" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 ## 📖 Inhaltsverzeichnis
 

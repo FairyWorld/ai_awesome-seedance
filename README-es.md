@@ -13,7 +13,7 @@ Este repositorio se centra en **prompts de Seedance 2.0 de alta fidelidad** obte
 Nota: para preservar la reproducibilidad, muchos bloques de prompt se mantienen en su ingles original.
 
 ### Patrocinador: [Seedance 2.0 ahora cuesta un 44 % menos en Cyberbara.com](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
-[<img width="1200" alt="Seedance 2.0 ahora cuesta un 44 por ciento menos en Cyberbara.com" src="./assets/seedance2-cyberbara-price-drop-44.webp" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+[<img width="1200" alt="Seedance 2.0 ahora cuesta un 44 por ciento menos en Cyberbara.com" src="./assets/cyberbara-promo.png" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 ## 📖 Tabla de contenidos
 

@@ -13,7 +13,7 @@ Ce depot se concentre sur des **prompts Seedance 2.0 haute fidelite** provenant 
 Remarque : afin de preserver la reproductibilite, de nombreux blocs de prompt restent en anglais dans leur formulation d'origine.
 
 ### Sponsor : [Le prix de Seedance 2.0 a baissé de 44 % sur Cyberbara.com](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
-[<img width="1200" alt="Le prix de Seedance 2.0 a baisse de 44 pour cent sur Cyberbara.com" src="./assets/seedance2-cyberbara-price-drop-44.webp" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+[<img width="1200" alt="Le prix de Seedance 2.0 a baisse de 44 pour cent sur Cyberbara.com" src="./assets/cyberbara-promo.png" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 ## 📖 Table des matieres
 

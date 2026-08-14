@@ -11,7 +11,7 @@ Last updated on 2026-09-12 00-34-26
 本仓库专注于收集来自 X (Twitter)、微信和顶级提示词工程师的 **高保真 Seedance 2.0 提示词**。无论你是在寻找**电影级过渡**、**角色一致性**，还是复杂的**动作序列**，你都能在这里找到最有效的输入，以解锁 **Seedance AI** 的全部潜力。
 
 ### 赞助： [Cyberbara.com 上 Seedance 2.0 降价 44%](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
-[<img width="1200" alt="Cyberbara.com 上 Seedance 2.0 降价 44%" src="./assets/seedance2-cyberbara-price-drop-44.webp" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+[<img width="1200" alt="Cyberbara.com 上 Seedance 2.0 降价 44%" src="./assets/cyberbara-promo.png" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 ## 📖 目录
 
