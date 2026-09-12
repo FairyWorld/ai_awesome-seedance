@@ -12,7 +12,13 @@ Last updated on 2026-09-12 00-34-26
 
 注記: 再現性を保つため、多くのプロンプトコードブロックは原文の英語のまま残しています。
 
-### スポンサー: [Cyberbara.comでSeedance 2.0が44%値下げ](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+### スポンサー 1
+
+| 画像 | 説明 |
+| :---: | :--- |
+| <img width="400" alt="APIMart" src="https://github.com/user-attachments/assets/39087148-9caa-4b37-8563-2da68df19713" /> | APIMart が本プロジェクトをスポンサーしています。APIMart は AI 画像・動画生成向けの低価格 API プラットフォームで、GPT-Image-2 は 1 枚 $0.006 から、1 ドルで 160 枚以上生成できます。画像と動画を 1 つの非同期 API で扱え、タスクを送信して ID を取得し、ポーリングまたはコールバックで結果を取得できます。数万枚のバッチ処理もタイムアウトせず、モデルを切り替えてもコード変更は不要です。従量課金で月額料金なし——[こちらの登録リンクから利用を開始](https://go.apimart.ai/gh-awesome-seedancee)。 |
+
+### スポンサー 2: [Cyberbara.comでSeedance 2.0が44%値下げ](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 [<img width="1200" alt="Cyberbara.comでSeedance 2.0が44パーセント値下げ" src="./assets/cyberbara-promo.png" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 ## 📖 目次

@@ -12,7 +12,13 @@ Dieses Repository konzentriert sich auf **hochwertige Seedance-2.0-Prompts** aus
 
 Hinweis: Um die Reproduzierbarkeit zu bewahren, bleiben viele Prompt-Codebloecke im englischen Original.
 
-### Sponsor: [Seedance 2.0 jetzt 44 % günstiger auf Cyberbara.com](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+### Sponsor 1
+
+| Bild | Beschreibung |
+| :---: | :--- |
+| <img width="400" alt="APIMart" src="https://github.com/user-attachments/assets/39087148-9caa-4b37-8563-2da68df19713" /> | Vielen Dank an APIMart für die Unterstützung dieses Projekts! APIMart ist eine kostengünstige API-Plattform für die KI-Bild- und Videogenerierung: GPT-Image-2 ab 0,006 $ pro Bild, über 160 Bilder pro Dollar. Eine asynchrone API deckt Bilder und Videos ab: Aufgabe senden, ID erhalten und Ergebnisse per Abfrage oder Callback abrufen. Zehntausende Bilder lassen sich ohne Zeitüberschreitungen stapelweise verarbeiten; Modellwechsel erfordern keine Codeänderungen. Abrechnung nach Verbrauch, keine monatliche Gebühr — [hier registrieren und loslegen](https://go.apimart.ai/gh-awesome-seedancee). |
+
+### Sponsor 2: [Seedance 2.0 jetzt 44 % günstiger auf Cyberbara.com](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 [<img width="1200" alt="Seedance 2.0 jetzt 44 Prozent günstiger auf Cyberbara.com" src="./assets/cyberbara-promo.png" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 ## 📖 Inhaltsverzeichnis

@@ -10,7 +10,13 @@ Last updated on 2026-09-12 00-34-26
 
 本仓库专注于收集来自 X (Twitter)、微信和顶级提示词工程师的 **高保真 Seedance 2.0 提示词**。无论你是在寻找**电影级过渡**、**角色一致性**，还是复杂的**动作序列**，你都能在这里找到最有效的输入，以解锁 **Seedance AI** 的全部潜力。
 
-### 赞助： [Cyberbara.com 上 Seedance 2.0 降价 44%](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+### 赞助 1
+
+| 图片 | 说明 |
+| :---: | :--- |
+| <img width="400" alt="APIMart" src="https://github.com/user-attachments/assets/39087148-9caa-4b37-8563-2da68df19713" /> | 感谢 APIMart 赞助了本项目！APIMart 是专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 $0.006/张，1 美元可生成 160+ 张图片。图片、视频共用一套异步 API：提交任务获取 ID，通过轮询或回调获取结果。批量生成数万张图片不超时，切换模型无需修改代码。按量付费、无月费——[通过此注册链接注册即可开用](https://go.apimart.ai/gh-awesome-seedancee)。
+
+### 赞助 2： [Cyberbara.com 上 Seedance 2.0 降价 44%](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 [<img width="1200" alt="Cyberbara.com 上 Seedance 2.0 降价 44%" src="./assets/cyberbara-promo.png" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 ## 📖 目录

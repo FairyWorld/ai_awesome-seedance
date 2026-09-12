@@ -11,7 +11,13 @@ Last updated on 2026-09-12 00-34-26
 This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X (Twitter), WeChat, and top prompt engineers. Whether you are looking for **cinematic transitions**, **character consistency**, or complex motion sequences, you will find the most effective inputs here to unlock the full potential of **Seedance AI**.
 
 
-### Sponsor
+### Sponsor 1
+
+| Image | Description |
+| :---: | :--- |
+| <img width="400" alt="APIMart" src="https://github.com/user-attachments/assets/39087148-9caa-4b37-8563-2da68df19713" /> | Thanks to APIMart for sponsoring this project! APIMart is a low-cost API platform for AI image & video generation — GPT-Image-2 from $0.006/image, 160+ images per dollar. One async API covers both image and video: submit a task, get an ID, fetch results via polling or callback. Batch tens of thousands of images without timeouts, switch models without changing code. Pay-as-you-go with no monthly fee — [sign up here](https://go.apimart.ai/gh-awesome-seedancee) to get started. |
+
+### Sponsor 2
 [![Cyberbara Ad](./assets/cyberbara-promo.png)](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 > **💡 Struggle with Seedance 2.0 Face Detection?**

@@ -12,7 +12,13 @@ Ce depot se concentre sur des **prompts Seedance 2.0 haute fidelite** provenant 
 
 Remarque : afin de preserver la reproductibilite, de nombreux blocs de prompt restent en anglais dans leur formulation d'origine.
 
-### Sponsor : [Le prix de Seedance 2.0 a baissé de 44 % sur Cyberbara.com](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+### Sponsor 1
+
+| Image | Description |
+| :---: | :--- |
+| <img width="400" alt="APIMart" src="https://github.com/user-attachments/assets/39087148-9caa-4b37-8563-2da68df19713" /> | Merci à APIMart de sponsoriser ce projet ! APIMart est une plateforme API abordable pour la génération d’images et de vidéos par IA : GPT-Image-2 à partir de 0,006 $ l’image, soit plus de 160 images par dollar. Une seule API asynchrone couvre les images et les vidéos : envoyez une tâche, obtenez un ID, puis récupérez le résultat par interrogation ou rappel. Traitez des dizaines de milliers d’images par lots sans délai d’expiration et changez de modèle sans modifier votre code. Paiement à l’usage, sans abonnement mensuel — [inscrivez-vous ici pour commencer](https://go.apimart.ai/gh-awesome-seedancee). |
+
+### Sponsor 2 : [Le prix de Seedance 2.0 a baissé de 44 % sur Cyberbara.com](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 [<img width="1200" alt="Le prix de Seedance 2.0 a baisse de 44 pour cent sur Cyberbara.com" src="./assets/cyberbara-promo.png" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 ## 📖 Table des matieres
